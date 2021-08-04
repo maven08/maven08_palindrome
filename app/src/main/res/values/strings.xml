@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="label_text">Enter text</string>
+    <string name="action_click">Check</string>
+    <string name="please_enter">Please enter Something</string>
+    <string name="no">String is not Palindrome</string>
+    <string name="yes">String is  Palindrome</string>
+    <string name="error_too_short">Too short</string>
+</resources>
